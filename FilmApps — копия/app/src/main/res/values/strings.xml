@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Rick and Morti</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="Authorization">Авторизация</string>
+    <string name="Registration">Регистрация</string>
+    <string name="login">Введите логин</string>
+    <string name="pass">Введите пароль</string>
+    <string name="goToReg">Ещё не зарегистрированы ?</string>
+    <string name="goToAuth">Уже зарегистрированы ?</string>
+
+    <string name="goodReg">Успешная регистрация!</string>
+    <string name="badRed">Неудачная регистрация</string>
+    <string name="badAuth">Неверный логин или пароль!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="name">Имя - </string>
+    <string name="status">Статус - </string>
+    <string name="species">Раса - </string>
+    <string name="gender">Пол - </string>
+    <string name="origin">Место рождения - </string>
+    <string name="location">Местонахождение - </string>
+    <string name="backToList">Назад</string>
+    <string name="characterList">Персонажи "Рик и Морти" </string>
+
+</resources>
